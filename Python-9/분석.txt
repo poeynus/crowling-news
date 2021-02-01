@@ -1,0 +1,9 @@
+1. 총 3개의 사이트에서 직업 채용 정보들을 각각 긁어오기 
+2. 하나의 리스트에 정리하기
+
+https://weworkremotely.com/remote-jobs/search?utf8=%E2%9C%93&term=python
+https://remoteok.io/remote-react-jobs
+https://stackoverflow.com/jobs?q=react
+
+fake db 만들어서 같은 내용 있으면 다시 실행 안하기
+csv로 저장하기
